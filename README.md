@@ -23,7 +23,7 @@
 <summary>JS DATA STRUCTURE</summary>
 <p>
 
-#### JS BASICS
+#### JS DATA STRUCTURE
 
 - Map
 - Weak Map
@@ -39,7 +39,7 @@
 <summary>JS DOM MANIPULATION</summary>
 <p>
 
-#### JS BASICS
+#### JS DOM MANIPULATION
 
 - Styling on Element
 - Selecting Elementing
@@ -47,6 +47,20 @@
 - DOM Tree Analogy
 - Modifying Elements Attributes & Classes
 - Creating, Adding, Modifying & Remocing Elements
+
+</p>
+</details>
+
+<details>
+<summary>JS EXCEPTIONS & MODULES</summary>
+<p>
+
+#### JS EXCEPTIONS & MODULES
+
+- Finally Keyword
+- Try Catch
+- Throw Statement
+- JS Modules
 
 </p>
 </details>
