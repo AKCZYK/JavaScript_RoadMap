@@ -1,14 +1,20 @@
 # JavaScript_RoadMap
 
 <details>
-<summary>CLICK ME</summary>
+<summary>JS BASICS</summary>
 <p>
 
-#### We can hide anything, even code!
+#### JS BASICS
 
-```ruby
-   puts "Hello World"
-```
+- Syntax
+- Variable
+- String
+- Methods
+- DataType
+- if...else
+- Operators
+- Date & Time
+- Loops
 
 </p>
 </details>
