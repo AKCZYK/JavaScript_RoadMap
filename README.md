@@ -80,3 +80,18 @@
 
 </p>
 </details>
+
+<details>
+<summary>JS ES6</summary>
+<p>
+
+#### JS ASYNCHRONOUS 
+
+- Callback
+- SetTimeout
+- Setinterval
+- Promises
+- Async/Await
+
+</p>
+</details>
