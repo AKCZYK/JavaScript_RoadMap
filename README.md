@@ -19,3 +19,18 @@
 </p>
 </details>
  
+<details>
+<summary>JS DATA STRUCTURE</summary>
+<p>
+
+#### JS BASICS
+
+- Map
+- Weak Map
+- Set
+- Array
+- Object
+- Weak Set
+
+</p>
+</details>
