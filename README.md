@@ -82,7 +82,7 @@
 </details>
 
 <details>
-<summary>JS ES6</summary>
+<summary>JS ASYNCHRONOUS</summary>
 <p>
 
 #### JS ASYNCHRONOUS 
@@ -92,6 +92,25 @@
 - Setinterval
 - Promises
 - Async/Await
+
+</p>
+</details>
+
+<details>
+<summary>JS ADVANCE</summary>
+<p>
+
+#### JS ADVANCE
+
+- Closure
+- Scope
+- OPPs
+- Use Strict
+- Generators
+- Itertor
+- Memory Management
+- JS Regex
+- Browser Debugging
 
 </p>
 </details>
