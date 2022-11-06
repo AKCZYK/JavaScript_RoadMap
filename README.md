@@ -34,3 +34,19 @@
 
 </p>
 </details>
+
+<details>
+<summary>JS DOM MANIPULATION</summary>
+<p>
+
+#### JS BASICS
+
+- Styling on Element
+- Selecting Elementing
+- Event Listeners
+- DOM Tree Analogy
+- Modifying Elements Attributes & Classes
+- Creating, Adding, Modifying & Remocing Elements
+
+</p>
+</details>
