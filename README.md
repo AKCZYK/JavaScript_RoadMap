@@ -64,3 +64,19 @@
 
 </p>
 </details>
+
+<details>
+<summary>JS ES6</summary>
+<p>
+
+#### JS ES6
+
+- Proxies
+- Arrow Functions
+- Classes
+- Destructuring Assignments
+- Spread Parameters
+- Template Literal
+
+</p>
+</details>
